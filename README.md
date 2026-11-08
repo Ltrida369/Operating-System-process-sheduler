@@ -1,2 +1,1 @@
-# Operating-System-process-sheduler
-OOP-based CPU process scheduler implementing FCFS, Round Robin, and non-preemptive scheduling algorithms.
+An object-oriented CPU process scheduler implementing First Come, First Served (FCFS), Round Robin (RR), and non-preemptive scheduling algorithms. Designed to simulate and compare different CPU scheduling strategies using OOP principles.
